@@ -1,0 +1,50 @@
+html,
+body { 
+     padding: 2;
+     margin: 2;
+ background-color: #ffe4a0;
+ font-family: "bbt", monospace;
+  letter-spacing: 0;
+  font-smooth: never;
+  -webkit-font-smoothing: none;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeSpeed;
+  font-kerning: none;
+  font-feature-settings: "liga" 0, "calt" 0, "kern" 0;
+  line-height: 1;
+font-size: 16px;
+}
+#avatar {
+    height: 256px;
+    width: auto;
+       border-radius: 50%;  
+       float: left;
+       padding: 3px;
+}
+
+#h1-mod {
+   color: #000000;
+ 
+}
+
+hr  {
+    background-color: rgb(84, 150, 76);
+    height: 5px;
+    border-radius: 7px; 
+    clear: both;
+    border: none;
+}
+
+.nav-buttons {
+  border: none;
+ border-radius: 4px;
+ background-color: lavenderblush;
+}
+
+@font-face {
+  font-family: "bbt";
+  src: url("BigBlueTerm437NerdFontMono-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}

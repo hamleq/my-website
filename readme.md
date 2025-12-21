@@ -1,1 +1,1 @@
-This is a repo for a intoduction website i am making.
+This is a repo for a intoduction website i am making
