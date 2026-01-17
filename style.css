@@ -2,7 +2,7 @@ html,
 body { 
      padding: 2;
      margin: 2;
- background: linear-gradient(lightblue, pink , purple);
+ background: linear-gradient(darkblue , blue);
  font-family: "bbt", monospace;
   letter-spacing: 0;
   -webkit-font-smoothing: none;
