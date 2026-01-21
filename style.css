@@ -27,7 +27,7 @@ font-size: 20px;
 }
 
 hr  {
-    background-color: rgb(7, 66, 83);
+    background-color: lightgrey, grey, darkgrey;
     height: 5px;
     border-radius: 7px; 
     clear: both;
