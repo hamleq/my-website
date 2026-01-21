@@ -2,7 +2,7 @@ html,
 body { 
      padding: 2;
      margin: 2;
- background: linear-gradient(darkblue , blue);
+ background: linear-gradient( lightgrey,khaki, rgb(145, 145, 99));
  font-family: "bbt", monospace;
   letter-spacing: 0;
   -webkit-font-smoothing: none;
@@ -27,7 +27,7 @@ font-size: 20px;
 }
 
 hr  {
-    background-color: lightgrey, grey, darkgrey;
+    background-color: white;
     height: 5px;
     border-radius: 7px; 
     clear: both;
@@ -37,7 +37,7 @@ hr  {
 .nav-buttons {
   border: none;
  border-radius: 4px;
- background-color: lavenderblush;
+ background-color:khaki;
 }
 
 @font-face {
